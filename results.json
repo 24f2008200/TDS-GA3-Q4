@@ -1,0 +1,56 @@
+{
+  "grandTotal": 2484661,
+  "breakdown": [
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=14",
+      "seed": "14",
+      "sum": 253497
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=15",
+      "seed": "15",
+      "sum": 248426
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=16",
+      "seed": "16",
+      "sum": 251595
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=17",
+      "seed": "17",
+      "sum": 248404
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=18",
+      "seed": "18",
+      "sum": 247759
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=19",
+      "seed": "19",
+      "sum": 244352
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=20",
+      "seed": "20",
+      "sum": 249105
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=21",
+      "seed": "21",
+      "sum": 242524
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=22",
+      "seed": "22",
+      "sum": 249197
+    },
+    {
+      "url": "https://sanand0.github.io/tdsdata/js_table/?seed=23",
+      "seed": "23",
+      "sum": 249802
+    }
+  ],
+  "timestamp": "2026-02-22T08:10:12.296Z"
+}

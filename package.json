@@ -1,0 +1,15 @@
+{
+  "name": "tds-ga3-q4",
+  "version": "1.0.0",
+  "description": "![Daily Commit](https://github.com/24f2008200/TDS-GA3-Q4/actions/workflows/daily-commit.yml/badge.svg)",
+  "main": "scraper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.58.2"
+  }
+}
